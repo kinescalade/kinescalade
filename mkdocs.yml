@@ -1,0 +1,28 @@
+site_name: Kinescalade - Gérer les blessures en escalade
+site_url: kinescalade.info
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Doigts:
+    - Poulies: doigts/poulies.md
+  - Genoux:
+    - Patella: genoux/patella.md
+  - Épaules:
+    - Coiffe: épaules/coiffe.md
