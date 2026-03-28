@@ -1,3 +1,3 @@
-# Douleurs à la patella (rotule)
+# Patella
 
 Contenu à venir.

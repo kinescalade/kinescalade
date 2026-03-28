@@ -1,3 +1,3 @@
-# Douleur à la coiffe des rotateurs
+# Coiffe des rotateurs
 
 Contenu à venir.

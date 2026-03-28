@@ -1,3 +1,3 @@
-# Douleurs à l'intérieur du coude
+# Intérieur du coude
 
 Contenu à venir.
