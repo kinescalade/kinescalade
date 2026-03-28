@@ -1,5 +1,5 @@
 site_name: Kinescalade - Gérer les blessures en escalade
-site_url: kinescalade.info
+site_url: https://kinescalade.github.io/kinescalade
 
 theme:
   name: material
