@@ -2,22 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://kinescalade.github.io/kinescalade/</loc>
-         <lastmod>2026-03-28</lastmod>
+         <lastmod>2026-07-14</lastmod>
     </url>
     <url>
-         <loc>https://kinescalade.github.io/kinescalade/coudes/int%C3%A9rieur-du-coude/</loc>
-         <lastmod>2026-03-28</lastmod>
+         <loc>https://kinescalade.github.io/kinescalade/coude/coude/01-anatomie/</loc>
+         <lastmod>2026-07-14</lastmod>
+    </url>
+    <url>
+         <loc>https://kinescalade.github.io/kinescalade/coude/coude/02-diagnostic/</loc>
+         <lastmod>2026-07-14</lastmod>
+    </url>
+    <url>
+         <loc>https://kinescalade.github.io/kinescalade/coude/coude/03-r%C3%A9%C3%A9ducation/</loc>
+         <lastmod>2026-07-14</lastmod>
+    </url>
+    <url>
+         <loc>https://kinescalade.github.io/kinescalade/coude/coude/03-r%C3%A9%C3%A9ducation/01-tendinopathie-mediale/</loc>
+         <lastmod>2026-07-14</lastmod>
+    </url>
+    <url>
+         <loc>https://kinescalade.github.io/kinescalade/coude/coude/03-r%C3%A9%C3%A9ducation/02-tendinopathie-lat%C3%A9rale/</loc>
+         <lastmod>2026-07-14</lastmod>
+    </url>
+    <url>
+         <loc>https://kinescalade.github.io/kinescalade/coude/coude/03-r%C3%A9%C3%A9ducation/03-ligament-collat%C3%A9ral-ulnaire/</loc>
+         <lastmod>2026-07-14</lastmod>
     </url>
     <url>
          <loc>https://kinescalade.github.io/kinescalade/doigts/poulies/</loc>
-         <lastmod>2026-03-28</lastmod>
+         <lastmod>2026-07-14</lastmod>
     </url>
     <url>
          <loc>https://kinescalade.github.io/kinescalade/genoux/patella/</loc>
-         <lastmod>2026-03-28</lastmod>
+         <lastmod>2026-07-14</lastmod>
     </url>
     <url>
          <loc>https://kinescalade.github.io/kinescalade/%C3%A9paules/coiffe/</loc>
-         <lastmod>2026-03-28</lastmod>
+         <lastmod>2026-07-14</lastmod>
     </url>
 </urlset>
